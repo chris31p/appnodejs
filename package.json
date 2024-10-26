@@ -1,0 +1,18 @@
+{
+  "name": "prework-2",
+  "version": "1.0.0",
+  "description": "asincronismo en nodejs para una app de tareas pendientes que permita al usuario agregar y eliminar tareas desde la linea de comandos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asincronismo",
+    "nodejs"
+  ],
+  "author": "christopher p",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
